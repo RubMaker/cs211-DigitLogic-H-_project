@@ -1,0 +1,14 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: F:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 76eb8a10ccca4d8d9e8468101d68fbca --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot bt_uart_tb_behav xil_defaultlib.bt_uart_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port rst [C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sim_1/new/bt_uart_tb.v:48]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.bt_uart
+Compiling module xil_defaultlib.bt_uart_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot bt_uart_tb_behav

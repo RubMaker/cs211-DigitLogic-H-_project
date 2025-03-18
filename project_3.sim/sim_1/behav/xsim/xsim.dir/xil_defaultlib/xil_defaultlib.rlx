@@ -1,0 +1,16 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/EarendelH/Desktop/project_3/project_3.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sim_1/new/bt_uart_tb.v,1734352454,verilog,,,,bt_uart_tb,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sim_1/new/competing_module.v,1734269736,verilog,,,,competition_module_tb,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/Constant.vh,1734351877,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/bt_uart.v,,,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/bitwise_operations.v,1734269736,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/calc_module_45.v,,bitwise_operations,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/bt_uart.v,1734351957,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sim_1/new/bt_uart_tb.v,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/Constant.vh,bt_uart,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/calc_module_45.v,1734269736,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/competition_module.v,,calc_module_45,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/competition_module.v,1734341307,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/logical_operations.v,,competition_module,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/logical_operations.v,1734269736,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/shift_operation.v,,logical_operations,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/shift_operation.v,1734269736,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/signed_add_sub_45.v,,shift_operation,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/signed_add_sub_45.v,1734269736,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/timer_module.v,,signed_add_sub_45,,,../../../../project_3.srcs/sources_1/new,,,,,
+C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/timer_module.v,1734333632,verilog,,C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sim_1/new/competing_module.v,,timer_module,,,../../../../project_3.srcs/sources_1/new,,,,,

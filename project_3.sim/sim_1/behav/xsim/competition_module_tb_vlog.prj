@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib "C:/Users/EarendelH/Desktop/project_3/project_3.srcs/sources_1/new/Constant.vh" --include "../../../../project_3.srcs/sources_1/new" \
+"../../../../project_3.srcs/sources_1/new/bitwise_operations.v" \
+"../../../../project_3.srcs/sources_1/new/calc_module_45.v" \
+"../../../../project_3.srcs/sources_1/new/competition_module.v" \
+"../../../../project_3.srcs/sources_1/new/logical_operations.v" \
+"../../../../project_3.srcs/sources_1/new/shift_operation.v" \
+"../../../../project_3.srcs/sources_1/new/signed_add_sub_45.v" \
+"../../../../project_3.srcs/sources_1/new/timer_module.v" \
+"../../../../project_3.srcs/sim_1/new/competing_module.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
